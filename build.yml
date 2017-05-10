@@ -13,4 +13,4 @@ inputs:
 
 
 run:
-  path: ./flight-school/ci/test.sh
+  path: ./flight-school/ci/test.bob
